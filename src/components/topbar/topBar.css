@@ -1,0 +1,42 @@
+.topbar{
+    position: sticky;
+    top: 0;
+    z-index:999;
+    background-color: white;
+    
+}
+
+.navbarBrandName{
+    font-size: 30px;
+    top:0;
+    color:rgb(241, 157, 56)!important;
+    font-weight: 300;
+    font-family: Verdana, sans-serif;
+    margin-bottom: 5px;
+}
+.navbarBrandName::first-letter{
+    color:rgb(233, 50, 35);
+    font-size: 150%;
+    font-weight: 300;
+    
+}
+.navbarSearch{
+    width: 500px;
+}
+.topbarSearchResult{
+  position: absolute;
+  margin-top: 2px;
+  padding-top: 10px;
+  padding-left: 30px;
+  width: 500px;
+  height: auto;
+  max-height: 200px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  overflow: hidden;
+  overflow-y: auto;
+  background-origin: content-box;
+}
+.topbarSearchResult::-webkit-scrollbar {
+    display: none;
+  }

@@ -1,0 +1,38 @@
+.detail{
+    display: flex;
+}
+
+.detailImgContainer{
+    height: 30vh;
+    width: 50wh;
+}
+.detailCardImg{
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+.detailCard{
+    width: 48rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.detailCardColumns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.detailSidebar{
+    background-color: rgb(245, 245, 245);
+    padding: 20px;
+   
+}
+ul>li{
+    list-style-type:none;
+    cursor: pointer;
+    
+
+}
