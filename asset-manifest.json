@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/emoji-book/static/css/main.2bed94dc.chunk.css",
+    "main.js": "/emoji-book/static/js/main.496fd2c5.chunk.js",
+    "main.js.map": "/emoji-book/static/js/main.496fd2c5.chunk.js.map",
+    "runtime-main.js": "/emoji-book/static/js/runtime-main.a37a7234.js",
+    "runtime-main.js.map": "/emoji-book/static/js/runtime-main.a37a7234.js.map",
+    "static/css/2.da1eef19.chunk.css": "/emoji-book/static/css/2.da1eef19.chunk.css",
+    "static/js/2.e3e83154.chunk.js": "/emoji-book/static/js/2.e3e83154.chunk.js",
+    "static/js/2.e3e83154.chunk.js.map": "/emoji-book/static/js/2.e3e83154.chunk.js.map",
+    "index.html": "/emoji-book/index.html",
+    "static/css/2.da1eef19.chunk.css.map": "/emoji-book/static/css/2.da1eef19.chunk.css.map",
+    "static/css/main.2bed94dc.chunk.css.map": "/emoji-book/static/css/main.2bed94dc.chunk.css.map",
+    "static/js/2.e3e83154.chunk.js.LICENSE.txt": "/emoji-book/static/js/2.e3e83154.chunk.js.LICENSE.txt",
+    "static/media/brand-new.32430375.png": "/emoji-book/static/media/brand-new.32430375.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a37a7234.js",
+    "static/css/2.da1eef19.chunk.css",
+    "static/js/2.e3e83154.chunk.js",
+    "static/css/main.2bed94dc.chunk.css",
+    "static/js/main.496fd2c5.chunk.js"
+  ]
+}
