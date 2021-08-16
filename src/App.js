@@ -1,17 +1,16 @@
-import TopBar from './components/topbar/TopBar';
+
 import Category from './pages/category/Category';
 import Detail from './pages/detail/Detail';
 import Home from './pages/home/Home';
-import Search from './pages/search/Search';
 import Categories from './pages/categories/Categories';
 import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
+  
 } from "react-router-dom";
 
-function App(props) {
+function App() {
   return (
     <Router>
     <div className="App">
