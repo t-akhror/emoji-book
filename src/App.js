@@ -19,9 +19,7 @@ function App() {
             <Route exact path="/">
               <Home />
             </Route>
-            <Route path="/search">
-              <Search />
-            </Route>
+            
             <Route path="/category/:id">
               <Category />
             </Route>
