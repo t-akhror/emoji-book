@@ -8,6 +8,7 @@ import { Col,
       Button, } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import emojibook from '../../emojibook';
+import brandImg from '../../image/brand-new.png';
 
 
 
@@ -27,7 +28,7 @@ export default function Home() {
                 
                 <span className="homeBrandTitle">
                 <span className="homeBrandImage"> 
-                  <img src="./images/brand-new.png" width="70"
+                  <img src={brandImg} width="70"
                          height="70" alt="" /> </span>
                  <Link to='/' className='link'>  EmojiBook</Link> 
                   </span>
